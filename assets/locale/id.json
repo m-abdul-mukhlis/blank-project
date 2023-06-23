@@ -88,6 +88,9 @@
   "lib/video": {
     "missing_code": "Missing Youtube Code in Props"
   },
+  "log/test": {
+    "test": "Mantap TEST"
+  },
   "main/index": {
     "helo_msg": "Hellow Esoftplay developer, jangan lupa bismillah dulu. (-̀ᴗ-́)و ̑̑"
   },
